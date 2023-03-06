@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "664389849899",
+    "project_id": "carpoolapp-flutter-project",
+    "storage_bucket": "carpoolapp-flutter-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664389849899:android:c168b394a6ca75e30feb6e",
+        "android_client_info": {
+          "package_name": "com.example.carpoolapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664389849899-b6cfbndbikbkvq19m79b02tgis40kink.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe4Sv0ctLbYZMkoD_EqTAOwQX88EeOP54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664389849899-b6cfbndbikbkvq19m79b02tgis40kink.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "664389849899-i177k7l2valiaa5th78vd074jqdna6g8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.carpoolapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664389849899:android:99fdb98995a00f800feb6e",
+        "android_client_info": {
+          "package_name": "com.example.mycarpoolapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664389849899-b6cfbndbikbkvq19m79b02tgis40kink.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe4Sv0ctLbYZMkoD_EqTAOwQX88EeOP54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664389849899-b6cfbndbikbkvq19m79b02tgis40kink.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "664389849899-i177k7l2valiaa5th78vd074jqdna6g8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.carpoolapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
